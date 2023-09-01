@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 755 current directory
+chmod -R a+X
