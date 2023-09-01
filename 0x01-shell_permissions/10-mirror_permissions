@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --reference=olleh hello
+find . -type d -exec chmod ugo+rx {} \
